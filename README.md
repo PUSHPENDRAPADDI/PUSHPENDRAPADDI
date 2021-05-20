@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **facebook**
 
-- 🤝 I’m looking for help with **FROZEN-ICE**
+- 🤝 I’m looking for help with *Nothing**
 
 - 💬 Ask me about **WEB Development**
 
