@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PUSHPENDRA YADAV</h1>
 <h3 align="center">A Passionate frontend developer from INDIA</h3>
 
-- 🔭 I’m currently working on **dark-mode amazon-clone**
+- 🔭 I’m currently working on **Website for Fromers named as Former Bro**
 
 - 🌱 I’m currently learning **react, JAVA**
 
