@@ -16,5 +16,5 @@
 
 - ⚡ Fun fact **Like Memes**
 
-- ## Snake eating my contribution graph
-![snake gif](https://github.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/blob/output/github-contribution-grid-snake.gif)
+- ## Snake eating my contribution...🐉
+![Snake animation](https://github.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/blob/output/github-contribution-grid-snake.svg)
