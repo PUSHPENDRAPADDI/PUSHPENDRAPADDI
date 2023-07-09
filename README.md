@@ -16,5 +16,7 @@
 
 - ⚡ Fun fact **Like Memes**
 
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUSHPENDRAPADDI&show_icons=true&theme=dark)
+
 - ## Snake eating my contribution...🐉
 ![Snake animation](https://github.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/blob/output/github-contribution-grid-snake.svg)
