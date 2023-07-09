@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PUSHPENDRA YADAV</h1>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&center=true&width=1000&height=100&lines=Hi+I'm+PUSHPENDRA+YADAV+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate frontend developer from INDIA</h3>
 
 - 🔭 I’m currently working on **Website for Texts named as PlayWithTexts**
