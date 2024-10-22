@@ -19,4 +19,10 @@
 - ![Pushpendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=PUSHPENDRAPADDI&show_icons=true&theme=dark)
 
 - ## Snake eating my contribution...🐉
-![Snake animation](https://github.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PUSHPENDRAPADDI/PUSHPENDRAPADDI/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
